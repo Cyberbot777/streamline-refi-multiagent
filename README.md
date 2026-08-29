@@ -299,7 +299,7 @@ agent:
 
 runtime:
   type: container
-  repository: kind-lending/streamline-refi-agent
+  repository: streamline-refi-agent
 
 observability:
   enabled: true
