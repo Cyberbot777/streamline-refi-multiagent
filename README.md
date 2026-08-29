@@ -338,6 +338,4 @@ cd frontend && npm run dev
 
 ---
 
-## License
 
-Internal - Kind Lending
