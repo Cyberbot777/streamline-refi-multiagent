@@ -25,7 +25,7 @@ Each specialist agent is wrapped as a `@tool` that the orchestrator invokes, cre
 ## Demo Screenshots
 
 ### Home Screen
-Clean, modern interface with Kind Lending branding and capability overview.
+Clean, modern interface with capability overview.
 
 ![Home Screen](docs/screenshots/01-home.png)
 
