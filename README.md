@@ -2,10 +2,6 @@
 
 Multi-agent AI system for **FHA Streamline Refinance** and **VA IRRRL** (Interest Rate Reduction Refinance Loan) underwriting using Strands SDK with the **"Agents as Tools"** pattern.
 
-**Status:** POC / Ready for Testing  
-**Owner:** Kind Lending AI Automation Team  
-**Architecture Reference:** Based on Kind Lending's Loan Intake Agent standard
-
 ---
 
 ## What It Does
